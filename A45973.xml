@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for prevention of frauds and perjuries</title>
+            <title>Public General Acts. 1695. 7 Wil.III.c.12.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45973</idno>
+            <idno type="STC">Wing I308</idno>
+            <idno type="STC">ESTC R216032</idno>
+            <idno type="EEBO-CITATION">99827785</idno>
+            <idno type="PROQUEST">99827785</idno>
+            <idno type="VID">32208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for prevention of frauds and perjuries</title>
+                  <title>Public General Acts. 1695. 7 Wil.III.c.12.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook, printer to the Kings Most Excellent Majesty, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Enacted: Public General Acts, 1695. 7 Wil.III.c.12.</note>
+                  <note>Running title reads: Anno regni septimo Gulielmi Tertii.</note>
+                  <note>Imperfect; lacks pages 9-12.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fraud --  Law and legislation --  Ireland --  Early works to 1800.</term>
+               <term>Perjury --  Law and legislation --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32208:1"/>
+            <p>AN ACT For prevention of FRAUDS and PERJURIES.</p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+               <p>W R</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <p>IE-MEIN-TIENDRAI</p>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32208:2"/>
+            <pb n="3" facs="tcp:32208:2"/>
+            <head>An Act for prevention of Frauds and Perjuries.</head>
+            <head type="sub">CHAP. XII.</head>
+            <p>FOR Prevention of many Fraudulent Pra<g ref="char:EOLhyphen"/>ctices which are Commonly Endeavoured to be upheld by Perjury and Subornation of Perjury.</p>
+            <p>Be it Enacted by the Kings Moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That from and after the Feaſt Day of the Nativity of St. <hi>John Baptiſt,</hi> which ſhall be in the Year of Our Lord, One Thouſand, Six Hundred, Ninety Six, all Leaſes, Eſtates, Intereſts, Freéholds or Terms of Years, or any uncertain Intereſt of, into, or out of Meſſuages, Mannours, Lands, Tenements or Hereditaments made and Created by Livery of Seizen only, or by Parole, and not put in Writing, and Signed by the Parties ſo making and Creating the ſame, or their A<g ref="char:EOLhyphen"/>gents thereunto Lawfully Authorized, by Wri<g ref="char:EOLhyphen"/>ting, ſhall have the Force and Effect of Leaſes and Eſtates at Will only; And ſhall not either in Law or Equity be Deémed or Taken to have any other or greater Force and Effect, any Conſide<g ref="char:EOLhyphen"/>ration for making ſuch Parole, Leaſes or Eſtates, or any former Law or Uſage to the Contrary Notwithſtanding: Except Nevertheleſs all Leaſes not Exceéding the Term of threé Years from the making thereof, whereupon the Rent Reſerved to the Landlord, during ſuch Term, ſhall amount unto two third parts, at the leaſt, of the full
+<pb n="4" facs="tcp:32208:3"/>Improved value of the thing Demiſed.</p>
+            <p>And moreover that no Eſtates, Leaſes or In<g ref="char:EOLhyphen"/>tereſts, either of Freéhold or Term of Years, or any uncertain Intereſt not being Copy-hold or Cuſtomary Intereſt, of, into, or out of any Meſ<g ref="char:EOLhyphen"/>ſuages, Lands, Tenements, or Hereditaments, ſhall at any time after the ſaid Feaſt day of the Nativity of Saint <hi>John</hi> the <hi>Baptiſt,</hi> which ſhall be in the ſaid Year of our Lord God, One thou<g ref="char:EOLhyphen"/>ſand, ſix hundred, ninety and ſix, be Aſſigned, Granted, or Surrendered, unleſs it be by Deéd, or Note in Writing, Signed by the parties ſo Aſ<g ref="char:EOLhyphen"/>ſigning, Granting, or Surrendring the ſame, or their Agents thereunto Lawfully Authorized by Writing, or by Act and Operation of Law.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid, That from and after the ſaid Feaſt day of the Nativity of St. <hi>John</hi> the <hi>Baptiſt,</hi> which ſhall be in the ſaid Year of our Lord, One thouſand, ſix hundred and ninety ſix, no Action ſhall be brought whereby to charge any Executor or Admi<g ref="char:EOLhyphen"/>niſtrator upon any Special Promiſe, to anſwer Damages out of his own Eſtate, or whereby to charge the Defendant upon any Special Promiſe to anſwer for the Debt, Default, or Miſcarriage of another perſon, or to charge any perſon upon any Agreement made upon Conſideration of Marriage, or upon any Contract or Sale of Lands, Tenements, or Hereditaments, or any Intereſt in, or concerning them, or upon any Agreément that is not to be performed within the ſpace of one Year from the making thereof, unleſs the Agreément upon which ſuch Action ſhall be brought, or ſome Memorandum, or Note thereof ſhall be in Writing, and Signed by the party to be charged therewith, or ſome
+<pb n="5" facs="tcp:32208:3"/>other perſon thereunto by him Lawfully Au<g ref="char:EOLhyphen"/>thorized.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid, That from and after the ſaid Feaſt day of the Nativity of St. <hi>John</hi> the <hi>Baptiſt,</hi> which ſhall be in the ſaid Year of our Lord, One thouſand, ſix hundred, ninety and ſix, all Deviſes and Requeſts of any Lands, Tene<g ref="char:EOLhyphen"/>ments, or Hereditaments, Deviſable, either by force of the Statute of Wills, or by this Sta<g ref="char:EOLhyphen"/>tute, or by force of the Cuſtom of any Bur<g ref="char:EOLhyphen"/>rough, or any other particular Cuſtom, ſhall be in Writing, and Signed by the party ſo De<g ref="char:EOLhyphen"/>viſing the ſame, or by ſome other perſon in his preſence, and by his expreſs Directions, and ſhall be Atteſted and Subſcribed in the preſence of the ſaid Deviſor, by threé or more Credible Witneſſes, or elſe they ſhall be utterly void and of none Effect.</p>
+            <p>And moreover no Deviſe in Writing of any Lands, Tenements or Hereditaments, that at any time after the ſaid Feaſt day of the Nativity of Saint <hi>John</hi> the <hi>Baptiſt,</hi> which ſhall be in the ſaid Year of Our Lord God, One Thouſand, Six Hundred, Ninety and Six, be Revocable, otherwiſe then by ſome other Will or Codicill in Writing, or other Wri<g ref="char:EOLhyphen"/>ting Declaring the ſame, or by Burning, Can<g ref="char:EOLhyphen"/>celling, Tearing or Obliterating the ſame by the Teſtator himſelf, or in his preſence, and by his Directions and Conſent; but all Deviſes and Requeſts of Lands and Tenements ſhall Remain and Continue in Force untill the ſame be Burnt, Cancelled, Torn or Obliterated by the Teſtator, or his Directions in manner aforeſaid; or unleſs the ſame be Altered by ſome other Will or Co<g ref="char:EOLhyphen"/>dicill in Writing, or other Writing of the De<g ref="char:EOLhyphen"/>viſors,
+<pb n="6" facs="tcp:32208:4"/>Signed in the preſence of threé or more Witneſſes Declaring the ſame, any former Law or Uſuage to the Contrary Notwithſtanding.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid, That from and after the ſaid Feaſt Day of the Nativity of Saint <hi>John</hi> the <hi>Baptiſt,</hi> which ſhall be in the ſaid Year of Our Lord God, One Thouſand, Six Hundred, Ninety and Six, all Declarations or Creations of any Truſts, or Confidences of any Lands, Tenements or He<g ref="char:EOLhyphen"/>reditaments ſhall be Manifeſted and proved by ſome Writing Signed by the Party who is by Law Enabled to Declare ſuch Truſt, or by his Laſt Will in Writing, or elſe they ſhall be utter<g ref="char:EOLhyphen"/>ly U<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and of none Effect.</p>
+            <p>Provided always that where any Conveyance ſhall be made of any Lands or Tenements by which a Truſt or Confidence ſhall or may ariſe by Implication or Conſtruction of Law, or to be Transferred or Extinguiſhed by Act or Ope<g ref="char:EOLhyphen"/>ration of Law, then and in every ſuch Caſe, ſuch Truſt or Confidence ſhall be of the like Force and Effect as the ſame would have beén if this Statute had not beén made, any thing herein before Contained to the Contrary Notwithſtand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>And be it further Enacted, That all Grants and Aſſignments of any Truſt or Confidence ſhall likewiſe be in Writing, Signed by the Par<g ref="char:EOLhyphen"/>ty Granting or Aſſigning the ſame, or by ſuch Laſt Will and Deviſe, or elſe ſhall likewiſe be ut<g ref="char:EOLhyphen"/>terly <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d and of none Effect.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid, That from and after the ſaid Feaſt Day of the Nativity of Saint <hi>John</hi> the <hi>Baptiſt,</hi> which ſhall be in the Year of Our Lord God,
+<pb n="7" facs="tcp:32208:4"/>One Thouſand, Six Hundred and Ninety Six, it ſhall and may be Lawfull for Every Sheriff, or other Officer, to whom any Precept or Writ is or ſhall be Directed at the Suite of any Per<g ref="char:EOLhyphen"/>ſon or Perſons of, for, and upon any Judg<g ref="char:EOLhyphen"/>ment, Statute or Recognizance hereafter to be made or had, to do, make and deliver Execution unto the Party in that behalf Sueing, of all ſuch Lands, Tenements, Rectories, Tyths, Rents and Hereditaments, as any other Perſon or Perſons be in any manner of Wiſe Seized or Poſſeſſed in Truſt for him againſt whom Execution is ſo Su<g ref="char:EOLhyphen"/>ed, like as the Sheriff or other Officer might or ought to have Done if the ſaid Party againſt whom Execution hereafter ſhall be ſo Sued had beén Seized of ſuch Lands, Tenements, Recto<g ref="char:EOLhyphen"/>ries, Tyths, Rents, or other Hereditaments of ſuch Eſtate as they be Seized of in Truſt for him at the time of the ſaid Execution Sued; which Lands, Tenements, Rectories, Tyths, Rents, or other Hereditaments, by Force and Vertue of ſuch Executions ſhall accordingly he held and Enjoyed, Freéd and Diſcharged from all Incumbrances of ſuch Perſon or Perſons as ſhall be ſo Seized or Poſſeſſed in Truſt for the Perſon againſt whom ſuch Execution ſhall be Sued: And if any Ceſtunque Truſt hereafter ſhall Dye leaving a Truſt in Feé Simple, to Deſcend to his Heirs, there and in every ſuch Caſe ſuch Truſt ſhall be Deémed and Taken, and is hereby Declared to be Aſſetts by Deſcent, and the Heir ſhall be lyable to and Chargeable with the Obligation of his Anceſtor, for or by Reaſon of ſuch Aſſetts as fully and amply as he might and ought to have beén if the Eſtate in Law had Deſcended to him in Poſſeſſion in
+<pb n="8" facs="tcp:32208:5"/>like Manner as the Truſt Deſcended, any Law, Cuſtom or Vſage to the Contrary in any wiſe Notwithſtanding.</p>
+            <p>Provided alwaies, That no Heir who ſhall be<g ref="char:EOLhyphen"/>come Chargeable by reaſon of any Eſtate or Truſt made Aſſetts in his hands by this Law, ſhall by reaſon of any kind of Plea or Confeſſion of the Action, or ſuffering Iudgment by <hi>Nient de dire,</hi> or any other matter be Chargeable to pay the Con<g ref="char:EOLhyphen"/>demnation out of his own Eſtate, but Execution ſhall be Sued of the whole Eſtate ſo made Aſſetts in his hands, by Deſcent in whoſe hands ſoever it ſhall come after the Writ purchaſed in the ſame manner as it is to be at, and by the Com<g ref="char:EOLhyphen"/>mon Law where the Heir at Law Pleading a true Plea Iudgment is prayed againſt him there<g ref="char:EOLhyphen"/>upon, any thing in this preſent Act contained to the contrary, Notwithſtanding. And for the Amendment of the Law in the particulars fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>Be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> further Enacted, by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That from henceforth any Eſtate <hi>pur au<g ref="char:EOLhyphen"/>ter vie,</hi> ſhall be Deviſeable by a Will in writing, Signed by the party ſo Deviſing the ſame, or by ſome other perſon in his preſence, and by his expreſs Direction Atteſted and Subſcribed in the preſence of the Deviſor by threé or more Wit<g ref="char:EOLhyphen"/>neſſes; and if no ſuch Deviſe thereof be made, the ſame ſhall be Chargeable in the hands of the Heir if it ſhall come to him by reaſon of a ſpecial Occupancy, as Aſſetts by Deſcent, as in Caſe of Lands in Feé Simple, and in Caſe there be no ſpecial Occupant thereof, it ſhall go to the Executors or Adminiſtrators of the party that had the Eſtate thereof by Vertue of the Grant, and ſhall be Aſſetts in their hands.
+<pb n="13" facs="tcp:32208:5"/>Concerning Perſonal Eſtates, but that the Prerogative Court of the Arch-Biſhop of <hi>Ar<g ref="char:EOLhyphen"/>magh,</hi> and other Eccleſiaſtical Courts, and other Courts, having Right to the Probate of ſuch Wills, ſhall retain the ſame Right and Power as they had before in every Reſpect, ſubject Ne<g ref="char:EOLhyphen"/>vertheleſs to the Rules and Directions of this Act.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
